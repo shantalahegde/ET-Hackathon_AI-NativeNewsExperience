@@ -14,4 +14,4 @@ Output Images:
 
 6) https://github.com/shantalahegde/ET-Hackathon_AI-NativeNewsExperience/blob/main/Redirected%20to%20original%20page.jpeg
 
-7) 
+7) https://github.com/shantalahegde/ET-Hackathon_AI-NativeNewsExperience/blob/main/Save.jpeg
