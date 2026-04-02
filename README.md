@@ -10,4 +10,8 @@ Output Images:
 
 4) https://github.com/shantalahegde/ET-Hackathon_AI-NativeNewsExperience/blob/main/Analysis.jpeg
 
-5) https://github.com/shantalahegde/ET-Hackathon_AI-NativeNewsExperience/blob/main/Multilinguial%20support.jpeg 
+5) https://github.com/shantalahegde/ET-Hackathon_AI-NativeNewsExperience/blob/main/Multilinguial%20support.jpeg
+
+6) https://github.com/shantalahegde/ET-Hackathon_AI-NativeNewsExperience/blob/main/Redirected%20to%20original%20page.jpeg
+
+7) 
